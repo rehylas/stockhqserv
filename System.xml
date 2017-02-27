@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Systems>
+	<sinaStockHqServer>
+		<shStockList>D:/run/shcode2.txt</shStockList>  
+		<szStockList>D:/run/szcode2.txt</szStockList>  
+		<showhqData>1</showhqData>  
+	</sinaStockHqServer>
+	
+
+
+</Systems>
